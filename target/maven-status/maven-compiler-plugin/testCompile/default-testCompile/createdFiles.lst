@@ -1,0 +1,4 @@
+stepDefinitions\Initializer.class
+testRunner\TestRunnerClass.class
+stepDefinitions\ProductStepDefinitions.class
+stepDefinitions\SearchProductStepDefinitions.class

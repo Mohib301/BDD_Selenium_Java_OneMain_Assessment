@@ -1,0 +1,13 @@
+# Created at 2020-06-08T10:51:52.929
+Boot Manifest-JAR contains absolute paths in classpath '\\RB.WIN.FRB.ORG\E8\Accounts\G-I\p1mxh12\Redirected\Desktop\project\BDD.SeleniumWebDriver.Cucumber.Java\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
+# Created at 2020-06-08T10:51:53.044
+'\\RB.WIN.FRB.ORG\E8\Accounts\G-I\p1mxh12\Redirected\Desktop\project\BDD.SeleniumWebDriver.Cucumber.Java'
+
+# Created at 2020-06-08T10:51:53.059
+CMD.EXE was started with the above path as the current directory.
+
+# Created at 2020-06-08T10:51:53.065
+UNC paths are not supported.  Defaulting to Windows directory.
+
